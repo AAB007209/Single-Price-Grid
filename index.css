@@ -137,6 +137,10 @@ main {
 }
 
 @media (min-width: 1024px) {
+    body {
+        height: 100vh;
+    }
+
     .container {
         max-width: 640px;
         max-height: 500px;
